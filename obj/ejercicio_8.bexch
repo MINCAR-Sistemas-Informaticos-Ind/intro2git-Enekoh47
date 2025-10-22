@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__ejercicio_8.o
+[PROJECT FILES]
+C:\Users\eneko\Desktop\Eneko\Master\Sistemas informaticos industriales\Practica_3_08_10_2025\labo_3.gpr
+20251008103820 24f9202032973cd8604d56e1f6dcf7db
+[BOUND OBJECT FILES]
+C:\Users\eneko\Desktop\Eneko\Master\Sistemas informaticos industriales\Practica_3_08_10_2025\obj\ejercicio_8.o
+[GENERATED SOURCE FILES]
+b__ejercicio_8.ads
+b__ejercicio_8.adb
+b__ejercicio_8.ali
+[RESULTING OPTIONS]
+-LC:\Users\eneko\Desktop\Eneko\Master\Sistemas informaticos industriales\Practica_3_08_10_2025\obj\
+-LC:\Users\eneko\Desktop\Eneko\Master\Sistemas informaticos industriales\Practica_3_08_10_2025\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
